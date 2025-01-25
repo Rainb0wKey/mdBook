@@ -1,5 +1,8 @@
 # mdBook - none
 
+[![BDFD](https://images.weserv.nl/?url=https://github.com/user-attachments/assets/29ed67cd-9f0f-4b44-9167-937aa3940f58?raw=true?v=4&h=50&w=50&fit=cover&mask=circle&maxage=7d)](https://botdesignerdiscord.com)
+
+
 [![Build Status](https://github.com/rust-lang/mdBook/workflows/CI/badge.svg?event=push)](https://github.com/rust-lang/mdBook/actions?workflow=CI)
 [![crates.io](https://img.shields.io/crates/v/mdbook.svg)](https://crates.io/crates/mdbook)
 [![LICENSE](https://img.shields.io/github/license/rust-lang/mdBook.svg)](LICENSE)
